@@ -1,0 +1,13 @@
+{% extends './base.html' %}
+
+{% block title %}
+{{ juego.nombre }}
+{% endblock %}
+
+{% block article %}
+<h2><strong>{{ juego.nombre }}</strong></h2>
+<p><strong>Año de lanzamiento: </strong>{{ juego.año }}</p>
+<p><strong>Categoria: </strong>{{ juego.categoria }}</p>
+<p><strong>Desarrollador: </strong>{{ juego.desarrollador }}</p>
+<p><strong>Distribuidor: </strong>{{ juego.distribuidor }}</p>
+{% endblock %}

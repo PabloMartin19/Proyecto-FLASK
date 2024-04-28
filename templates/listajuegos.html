@@ -1,0 +1,32 @@
+{% extends './base.html' %}
+
+{% block title %}
+Lista de juegos
+{% endblock %}
+
+{% block article %}
+    <h1>Lista de juegos</h1>
+    <h2>Resultados para: "{{ nombre_juego }}"</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Desarrollador</th>
+                <th>Plataforma</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for juego in juegos %}
+            {% if nombre_juego | lower in juego.nombre | lower %}
+                <tr>
+                    <td>{{ juego.nombre }}</td>
+                    <td>{{ juego.desarrollador }}</td>
+                    <td>{{ juego.plataforma }}</td>
+                    <td><a href="/juegos/{{ juego.nombre }}">Detalles</a></td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
