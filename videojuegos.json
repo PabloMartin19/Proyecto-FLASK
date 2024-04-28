@@ -1,0 +1,480 @@
+[
+    {
+      "id": 1,
+      "nombre": "Final Fantasy VII",
+      "plataforma": "PlayStation",
+      "distribuidor": "Sony Computer Entertainment",
+      "desarrollador": "Square",
+      "categoria": "Role-Playing",
+      "año": 1997
+    },
+    {
+      "id": 2,
+      "nombre": "GoldenEye 007",
+      "plataforma": "Nintendo 64",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Rare",
+      "categoria": "First-Person Shooter",
+      "año": 1997
+    },
+    {
+      "id": 3,
+      "nombre": "Diablo",
+      "plataforma": "PC",
+      "distribuidor": "Blizzard Entertainment",
+      "desarrollador": "Blizzard North",
+      "categoria": "Action RPG",
+      "año": 1996
+    },
+    {
+      "id": 4,
+      "nombre": "Resident Evil",
+      "plataforma": "PlayStation",
+      "distribuidor": "Capcom",
+      "desarrollador": "Capcom",
+      "categoria": "Survival Horror",
+      "año": 1996
+    },
+    {
+      "id": 5,
+      "nombre": "Tomb Raider",
+      "plataforma": "PlayStation",
+      "distribuidor": "Eidos Interactive",
+      "desarrollador": "Core Design",
+      "categoria": "Action-Adventure",
+      "año": 1996
+    },
+    {
+      "id": 6,
+      "nombre": "Gran Turismo",
+      "plataforma": "PlayStation",
+      "distribuidor": "Sony Computer Entertainment",
+      "desarrollador": "Polyphony Digital",
+      "categoria": "Racing",
+      "año": 1997
+    },
+    {
+      "id": 7,
+      "nombre": "Half-Life",
+      "plataforma": "PC",
+      "distribuidor": "Sierra Studios",
+      "desarrollador": "Valve Corporation",
+      "categoria": "First-Person Shooter",
+      "año": 1998
+    },
+    {
+      "id": 8,
+      "nombre": "StarCraft",
+      "plataforma": "PC",
+      "distribuidor": "Blizzard Entertainment",
+      "desarrollador": "Blizzard Entertainment",
+      "categoria": "Real-Time Strategy",
+      "año": 1998
+    },
+    {
+      "id": 9,
+      "nombre": "Pokémon Red/Blue",
+      "plataforma": "Game Boy",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Game Freak",
+      "categoria": "Role-Playing",
+      "año": 1996
+    },
+    {
+      "id": 10,
+      "nombre": "Crash Bandicoot",
+      "plataforma": "PlayStation",
+      "distribuidor": "Sony Computer Entertainment",
+      "desarrollador": "Naughty Dog",
+      "categoria": "Platformer",
+      "año": 1996
+    },
+    {
+      "id": 11,
+      "nombre": "The Elder Scrolls V: Skyrim",
+      "plataforma": "Multiple",
+      "distribuidor": "Bethesda Softworks",
+      "desarrollador": "Bethesda Game Studios",
+      "categoria": "Action RPG",
+      "año": 2011
+    },
+    {
+      "id": 12,
+      "nombre": "The Witcher 3: Wild Hunt",
+      "plataforma": "Multiple",
+      "distribuidor": "CD Projekt",
+      "desarrollador": "CD Projekt Red",
+      "categoria": "Action RPG",
+      "año": 2015
+    },
+    {
+      "id": 13,
+      "nombre": "Red Dead Redemption 2",
+      "plataforma": "Multiple",
+      "distribuidor": "Rockstar Games",
+      "desarrollador": "Rockstar Studios",
+      "categoria": "Action-Adventure",
+      "año": 2018
+    },
+    {
+      "id": 14,
+      "nombre": "Super Smash Bros. Ultimate",
+      "plataforma": "Nintendo Switch",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Bandai Namco Studios, Sora Ltd.",
+      "categoria": "Fighting",
+      "año": 2018
+    },
+    {
+      "id": 15,
+      "nombre": "Fortnite",
+      "plataforma": "Multiple",
+      "distribuidor": "Epic Games",
+      "desarrollador": "Epic Games",
+      "categoria": "Battle Royale",
+      "año": 2017
+    },
+    {
+      "id": 16,
+      "nombre": "Minecraft",
+      "plataforma": "Multiple",
+      "distribuidor": "Mojang Studios",
+      "desarrollador": "Mojang Studios",
+      "categoria": "Sandbox, Survival",
+      "año": 2011
+    },
+    {
+      "id": 17,
+      "nombre": "Overwatch",
+      "plataforma": "Multiple",
+      "distribuidor": "Blizzard Entertainment",
+      "desarrollador": "Blizzard Entertainment",
+      "categoria": "First-Person Shooter",
+      "año": 2016
+    },
+    {
+      "id": 18,
+      "nombre": "The Legend of Zelda: Breath of the Wild",
+      "plataforma": "Nintendo Switch",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Nintendo EPD",
+      "categoria": "Action-Adventure",
+      "año": 2017
+    },
+    {
+      "id": 19,
+      "nombre": "Grand Theft Auto V",
+      "plataforma": "Multiple",
+      "distribuidor": "Rockstar Games",
+      "desarrollador": "Rockstar North",
+      "categoria": "Action-Adventure",
+      "año": 2013
+    },
+    {
+      "id": 20,
+      "nombre": "Persona 5",
+      "plataforma": "PlayStation 4",
+      "distribuidor": "Atlus",
+      "desarrollador": "P-Studio",
+      "categoria": "Role-Playing",
+      "año": 2016
+    },
+    {
+      "id": 21,
+      "nombre": "FIFA 22",
+      "plataforma": "Multiple",
+      "distribuidor": "Electronic Arts",
+      "desarrollador": "EA Vancouver, EA Romania",
+      "categoria": "Sports",
+      "año": 2021
+    },
+    {
+      "id": 22,
+      "nombre": "Call of Duty: Warzone",
+      "plataforma": "Multiple",
+      "distribuidor": "Activision",
+      "desarrollador": "Infinity Ward, Raven Software",
+      "categoria": "Battle Royale, First-Person Shooter",
+      "año": 2020
+    },
+    {
+      "id": 23,
+      "nombre": "Assassin's Creed Valhalla",
+      "plataforma": "Multiple",
+      "distribuidor": "Ubisoft",
+      "desarrollador": "Ubisoft Montreal",
+      "categoria": "Action-Adventure, Stealth",
+      "año": 2020
+    },
+    {
+      "id": 24,
+      "nombre": "Cyberpunk 2077",
+      "plataforma": "Multiple",
+      "distribuidor": "CD Projekt",
+      "desarrollador": "CD Projekt Red",
+      "categoria": "Action RPG",
+      "año": 2020
+    },
+    {
+      "id": 25,
+      "nombre": "The Last of Us Part II",
+      "plataforma": "PlayStation 4",
+      "distribuidor": "Sony Interactive Entertainment",
+      "desarrollador": "Naughty Dog",
+      "categoria": "Action-Adventure, Survival",
+      "año": 2020
+    },
+    {
+      "id": 26,
+      "nombre": "Animal Crossing: New Horizons",
+      "plataforma": "Nintendo Switch",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Nintendo EPD",
+      "categoria": "Social simulation",
+      "año": 2020
+    },
+    {
+      "id": 27,
+      "nombre": "Ghost of Tsushima",
+      "plataforma": "PlayStation 4",
+      "distribuidor": "Sony Interactive Entertainment",
+      "desarrollador": "Sucker Punch Productions",
+      "categoria": "Action-Adventure",
+      "año": 2020
+    },
+    {
+      "id": 28,
+      "nombre": "Doom Eternal",
+      "plataforma": "Multiple",
+      "distribuidor": "Bethesda Softworks",
+      "desarrollador": "id Software",
+      "categoria": "First-Person Shooter",
+      "año": 2020
+    },
+    {
+      "id": 29,
+      "nombre": "Marvel's Spider-Man: Miles Morales",
+      "plataforma": "PlayStation 4, PlayStation 5",
+      "distribuidor": "Sony Interactive Entertainment",
+      "desarrollador": "Insomniac Games",
+      "categoria": "Action-Adventure",
+      "año": 2020
+    },
+    {
+      "id": 30,
+      "nombre": "Death Stranding",
+      "plataforma": "Multiple",
+      "distribuidor": "Sony Interactive Entertainment",
+      "desarrollador": "Kojima Productions",
+      "categoria": "Action, Adventure",
+      "año": 2019
+    },
+    {
+      "id": 31,
+      "nombre": "Sekiro: Shadows Die Twice",
+      "plataforma": "Multiple",
+      "distribuidor": "Activision",
+      "desarrollador": "FromSoftware",
+      "categoria": "Action-Adventure",
+      "año": 2019
+    },
+    {
+      "id": 32,
+      "nombre": "Fire Emblem: Three Houses",
+      "plataforma": "Nintendo Switch",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Intelligent Systems, Koei Tecmo Games",
+      "categoria": "Tactical RPG",
+      "año": 2019
+    },
+    {
+      "id": 33,
+      "nombre": "Control",
+      "plataforma": "Multiple",
+      "distribuidor": "505 Games",
+      "desarrollador": "Remedy Entertainment",
+      "categoria": "Action-Adventure",
+      "año": 2019
+    },
+    {
+      "id": 34,
+      "nombre": "Devil May Cry 5",
+      "plataforma": "Multiple",
+      "distribuidor": "Capcom",
+      "desarrollador": "Capcom",
+      "categoria": "Action",
+      "año": 2019
+    },
+    {
+      "id": 35,
+      "nombre": "Super Smash Bros. Ultimate",
+      "plataforma": "Nintendo Switch",
+      "distribuidor": "Nintendo",
+      "desarrollador": "Bandai Namco Studios, Sora Ltd.",
+      "categoria": "Fighting",
+      "año": 2018
+    },
+    {
+      "id": 36,
+      "nombre": "Octopath Traveler",
+      "plataforma": "Nintendo Switch",
+      "distribuidor": "Square Enix",
+      "desarrollador": "Acquire, Square Enix",
+      "categoria": "Role-Playing",
+      "año": 2018
+    },
+    {
+      "id": 37,
+      "nombre": "God of War",
+      "plataforma": "PlayStation 4",
+      "distribuidor": "Sony Interactive Entertainment",
+      "desarrollador": "Santa Monica Studio",
+      "categoria": "Action-Adventure",
+      "año": 2018
+    },
+    {
+      "id": 38,
+      "nombre": "Celeste",
+      "plataforma": "Multiple",
+      "distribuidor": "Matt Makes Games",
+      "desarrollador": "Matt Makes Games",
+      "categoria": "Platformer",
+      "año": 2018
+    },
+    {
+      "id": 39,
+      "nombre": "Monster Hunter: World",
+      "plataforma": "Multiple",
+      "distribuidor": "Capcom",
+      "desarrollador": "Capcom",
+      "categoria": "Action RPG",
+      "año": 2018
+    },
+    {
+      "id": 40,
+      "nombre": "NieR: Automata",
+      "plataforma": "Multiple",
+      "distribuidor": "Square Enix",
+      "desarrollador": "PlatinumGames",
+      "categoria": "Action RPG",
+      "año": 2017
+    },
+    {
+      "id": 41,
+      "nombre": "Horizon Zero Dawn",
+      "plataforma": "PlayStation 4",
+      "distribuidor": "Sony Interactive Entertainment",
+      "desarrollador": "Guerrilla Games",
+      "categoria": "Action-Adventure",
+      "año": 2017
+    },
+    {
+        "id": 42,
+        "nombre": "Assassin's Creed Odyssey",
+        "plataforma": "Multiple",
+        "distribuidor": "Ubisoft",
+        "desarrollador": "Ubisoft Quebec",
+        "categoria": "Action RPG",
+        "año": 2018
+      },
+      {
+        "id": 43,
+        "nombre": "The Legend of Zelda: Ocarina of Time",
+        "plataforma": "Nintendo 64",
+        "distribuidor": "Nintendo",
+        "desarrollador": "Nintendo EAD",
+        "categoria": "Action-Adventure",
+        "año": 1998
+      },
+      {
+        "id": 44,
+        "nombre": "Metal Gear Solid",
+        "plataforma": "PlayStation",
+        "distribuidor": "Konami",
+        "desarrollador": "Konami Computer Entertainment Japan",
+        "categoria": "Stealth",
+        "año": 1998
+      },
+      {
+        "id": 45,
+        "nombre": "Chrono Trigger",
+        "plataforma": "Super Nintendo Entertainment System",
+        "distribuidor": "Square",
+        "desarrollador": "Square",
+        "categoria": "Role-Playing",
+        "año": 1995
+      },
+      {
+        "id": 46,
+        "nombre": "Super Mario 64",
+        "plataforma": "Nintendo 64",
+        "distribuidor": "Nintendo",
+        "desarrollador": "Nintendo EAD",
+        "categoria": "Platformer",
+        "año": 1996
+      },
+      {
+        "id": 47,
+        "nombre": "The Legend of Zelda: A Link to the Past",
+        "plataforma": "Super Nintendo Entertainment System",
+        "distribuidor": "Nintendo",
+        "desarrollador": "Nintendo EAD",
+        "categoria": "Action-Adventure",
+        "año": 1991
+      },
+      {
+        "id": 48,
+        "nombre": "Super Metroid",
+        "plataforma": "Super Nintendo Entertainment System",
+        "distribuidor": "Nintendo",
+        "desarrollador": "Nintendo R&D1, Intelligent Systems",
+        "categoria": "Action-Adventure",
+        "año": 1994
+      },
+      {
+        "id": 49,
+        "nombre": "Portal 2",
+        "plataforma": "Multiple",
+        "distribuidor": "Valve Corporation",
+        "desarrollador": "Valve Corporation",
+        "categoria": "Puzzle-Platformer",
+        "año": 2011
+      },
+      {
+        "id": 50,
+        "nombre": "The Legend of Zelda: Majora's Mask",
+        "plataforma": "Nintendo 64",
+        "distribuidor": "Nintendo",
+        "desarrollador": "Nintendo EAD",
+        "categoria": "Action-Adventure",
+        "año": 2000
+      },
+      {
+        "id": 51,
+        "nombre": "Pac-Man",
+        "plataforma": "Multiple",
+        "distribuidor": "Bandai Namco Entertainment",
+        "desarrollador": "Namco",
+        "categoria": "Maze",
+        "año": 1980
+      },
+      {
+        "id": 52,
+        "nombre": "Tetris",
+        "plataforma": "Multiple",
+        "distribuidor": "Various",
+        "desarrollador": "Alexey Pajitnov",
+        "categoria": "Puzzle",
+        "año": 1984
+      },
+      {
+        "id": 53,
+        "nombre": "Cuphead",
+        "plataforma": "Multiple",
+        "distribuidor": "StudioMDHR",
+        "desarrollador": "StudioMDHR",
+        "categoria": "Run and gun",
+        "año": 2017
+      }
+    
+    ]
